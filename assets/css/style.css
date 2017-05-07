@@ -1,0 +1,27 @@
+.container {
+	width:70%;
+}
+
+body {
+	background-image: url(http://expressemergency.com/wp-content/uploads/2016/04/bigstock-Black-smoke-cloud-series-26409170.jpg);
+	background-position:center;
+}
+
+.jumbotron {
+	background-image: url(http://www.playcast.ru/uploads/2016/08/05/19498337.gif);
+	background-size: 920px;
+	background-position: center;
+	color:white;
+	margin-top:15px;
+}
+
+footer {
+	text-align:center;
+	background-color:transparent;
+	color:hotpink;
+
+}
+
+form {
+	margin:10px;
+}
